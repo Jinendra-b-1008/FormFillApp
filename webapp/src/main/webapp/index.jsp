@@ -18,8 +18,8 @@
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
     <br>
 
-    <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="sister Name" name="sister" id="sister" required>
+    <label for="sister"><b>Father Name</b></label>
+    <input type="text" placeholder="father Name" name="father" id="father" required>
     <br>
 
     <label for="email"><b>Email</b></label>
